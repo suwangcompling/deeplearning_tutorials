@@ -1,6 +1,6 @@
-# LIN389C_DeepLearning
+# DeepLearning Code
 
-Implementation of various types of neural nets for the course, from scratch and using Tensorflow library.
+Implementation of various types of neural nets for the course, from scratch and using Keras(super high-level)/Tensorflow(more knobs to turn) libraries
 
 * DL01a_FNN_basics: Feedforward Neural Nets (FNN) basic form (from scratch + Tensorflow).
 * DL01b_FNN_extensions: FNN with extensions (regularization, weight initialization, early stopping, learning rate decay, more activation types).
